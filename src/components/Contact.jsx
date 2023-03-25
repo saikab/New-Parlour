@@ -35,7 +35,7 @@ function Contact() {
             </p>
             <div>
               <p>
-                <strong>Address:</strong>Behind of Ghurni Swarnamoye School
+                <strong>Address:</strong>Behind Ghurni Swarnamoye Girls School
               </p>
               <p>
                 <strong>Email:</strong> shilpibhadra1000@gmail.com
@@ -54,7 +54,7 @@ function Contact() {
               <input type="email" name="email" placeholder='email' />
               <input type="number" name="phoneNumber" placeholder='PhoneNumber'/>
               <textarea name="message" placeholder='Your messages'></textarea>
-              <button>Send Message for Booking or Related Quaries</button>
+              <button>Send Message for Booking</button>
            </form>
 
             

@@ -51,7 +51,7 @@ function Home() {
             <div className="col">
                 <strong>Address</strong>
                 <p>Ghurni</p>
-                <p>Behind of Swarnamoye Girls High School</p>
+                <p>Behind Swarnamoye Girls High School</p>
             </div> 
             <div className="col">
                 <strong>Services</strong>
